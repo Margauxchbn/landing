@@ -1,0 +1,13 @@
+.btn-blue{
+	background-color: yellow;
+	padding: 20px 40px;
+	border-radius: 4px;
+	color: grey;
+	font-weight: bold;
+	font-family: 'League Gothic', sans-serif;
+	font-size: 25px;
+	text-decoration: none;
+}
+.btn-blue:hover{
+	background-color: navy;
+}
